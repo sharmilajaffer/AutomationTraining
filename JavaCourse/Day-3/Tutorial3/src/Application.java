@@ -15,6 +15,8 @@ public class Application {
 	   
 	   System.out.println("Hello" + " " + "Yahya");
 	   
+	   System.out.println(greeting);
+	   
 	   System.out.println ("My integer is: " + myInt);
 	   
 	   double myDouble = 7.8;
