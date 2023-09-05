@@ -8,13 +8,15 @@ public class looping {
    while(true) {
 	   System.out.println("Looping:" + loop);
 	    
-	    if(loop == 5); 
+	    if(loop == 5) {
 	    break;
    }
-    loop++;
-      System.out.println("Running");
+	    loop++;
+	    System.out.println("Running");
+  }  
   }
-  }
+}
+  
 
    
    
